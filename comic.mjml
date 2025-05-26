@@ -24,6 +24,7 @@
                 <mj-text align="center" color="#eba518" font-size="15px">Emil Ferris</mj-text>
                 <mj-text color="white" height="100px" align="justify">Es un privilegio contar con una invitada como ella, una autora e ilustradora estadounidense cuyo trabajo ha revolucionado la novela gráfica contemporánea.</mj-text>
             </mj-column>
+        
             <mj-column width="25%">
                 <mj-image src="img/ernesto.jpg" alt="" />
                 <mj-text align="center" color="#eba518" font-size="14px">Ernesto Priego</mj-text>
