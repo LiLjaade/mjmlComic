@@ -8,6 +8,8 @@
         <mj-section  background-color="#32754c">
             <mj-column width="100%">
                 <mj-image src="img/comic.jpg" width="1000px"  />
+                <mj-text color="#eba518" font-size="24px" font-weight="bold" align="center" padding="10px 25px" padding-top="30px">¡Hola, {{nombreCliente}}!</mj-text>
+
             </mj-column>
         </mj-section>
 
